@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-02-21T22:13:35.972Z
-Commit: Implement user profile customization
+Timestamp: 2026-02-24T17:08:09.849Z
+Commit: Fix broken links in documentation
